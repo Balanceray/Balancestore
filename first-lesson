@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>第一次课作业</title>
+</head>
+<body>
+<h1 style="font-family: STIXIntegralsD">网页一级标题
+</h1>
+
+<ul>
+    <li type="disc"><a href="http://www.baidu.com">导航链接一</a></li>
+    <li type="disc"><a href="http://www.baidu.com">导航链接二</a></li>
+    <li type="disc"><a href="http://www.baidu.com">导航链接三</a></li>
+    <li type="disc"><a href="http://www.baidu.com">导航链接四</a></li>
+
+</ul>
+
+
+<h2 style="font-family: STIXIntegralsD">
+    文章一级标题
+</h2>
+
+<h3 style="font-family: STIXIntegralsD">
+    文章二级标题
+</h3>
+<p>作者 时间</p>
+<p style="font-family: STIXIntegralsD">
+    像人的语言一样，网络上的网页里的 HTML 代码也不一定是标准的，好比有时候你发音不太标准，别人会去猜测你说的到底是什么一样，
+    有些时候前端程序猿不小心写错了 HTML，浏览器也会试图猜测他们原来想写的是什么，做对应的渲染，而猜是要有一个常识做依据的。
+    加上有些浏览器支持一些标签，有一些又不支持，以及其他混乱的情况，为了防止大家鸡同鸭讲，我们需要对 HTML 代码里能有什么标签，
+    标签怎么写，标签可以有什么属性这些东西有一定的共识，建立一个通行的标准，HTML5 就是其中一个比较新的标准。这个标准新加了很多
+    可以用的标签和属性，然后各大浏览器也吭哧吭哧按这个标准去实现了很多这些新加的标签和属性，本来前端程序员要写一堆代码去实现的
+    效果，现在浏览器都给你实现好了，只要写两三行，调用一下浏览器给你实现的部分就能搞定，简单愉快，所以很多人都在热情地推广
+    <br/>在这里换行<br/>
+    像人的语言一样，网络上的网页里的 HTML 代码也不一定是标准的，好比有时候你发音不太标准，别人会去猜测你说的到底是什么一样，
+    有些时候前端程序猿不小心写错了 HTML，浏览器也会试图猜测他们原来想写的是什么，做对应的渲染，而猜是要有一个常识做依据的。
+    加上有些浏览器支持一些标签，有一些又不支持，以及其他混乱的情况，为了防止大家鸡同鸭讲，我们需要对 HTML 代码里能有什么标签，
+    标签怎么写，标签可以有什么属性这些东西有一定的共识，建立一个通行的标准，HTML5 就是其中一个比较新的标准。这个标准新加了很多
+    可以用的标签和属性，然后各大浏览器也吭哧吭哧按这个标准去实现了很多这些新加的标签和属性，本来前端程序员要写一堆代码去实现的
+    效果，现在浏览器都给你实现好了，这里用加粗字体<b>只要写两三行</b>，调用一下浏览器给你实现的部分就能搞定，
+    <a href="first.html">简单愉快，所以很多人都在热情地推广</a>
+
+</p>
+<img src="image/a.jpg">
+<p style="font-family: STIXIntegralsD">
+    像人的语言一样，网络上的网页里的 HTML 代码也不一定是标准的，好比有时候你发音不太标准，别人会去猜测你说的到底是什么一样，
+    有些时候前端程序猿不小心写错了 HTML，浏览器也会试图猜测他们原来想写的是什么，做对应的渲染，而猜是要有一个常识做依据的。
+    加上有些浏览器支持一些标签，有一些又不支持，以及其他混乱的情况，为了防止大家鸡同鸭讲，我们需要对 HTML 代码里能有什么标签，
+    标签怎么写，标签可以有什么属性这些东西有一定的共识，建立一个通行的标准，HTML5 就是其中一个比较新的标准。这个标准新加了很多
+    可以用的标签和属性，然后各大浏览器也吭哧吭哧按这个标准去实现了很多这些新加的标签和属性，本来前端程序员要写一堆代码去实现的
+    效果，现在浏览器都给你实现好了，只要写两三行，调用一下浏览器给你实现的部分就能搞定，简单愉快，所以很多人都在热情地推广
+    <br/>在这里换行<br/>
+    像人的语言一样，网络上的网页里的 HTML 代码也不一定是标准的，好比有时候你发音不太标准，别人会去猜测你说的到底是什么一样，
+    有些时候前端程序猿不小心写错了 HTML，浏览器也会试图猜测他们原来想写的是什么，做对应的渲染，而猜是要有一个常识做依据的。
+    加上有些浏览器支持一些标签，有一些又不支持，以及其他混乱的情况，为了防止大家鸡同鸭讲，我们需要对 HTML 代码里能有什么标签，
+    标签怎么写，标签可以有什么属性这些东西有一定的共识，建立一个通行的标准，HTML5 就是其中一个比较新的标准。这个标准新加了很多
+    可以用的标签和属性，然后各大浏览器也吭哧吭哧按这个标准去实现了很多这些新加的标签和属性，本来前端程序员要写一堆代码去实现的
+    效果，现在浏览器都给你实现好了，这里用加粗字体<b>只要写两三行</b>，调用一下浏览器给你实现的部分就能搞定，
+    <a href="first.html">简单愉快，所以很多人都在热情地推广</a>
+
+</p>
+
+
+<h2 style="font-family: STIXIntegralsD">
+    另一篇文章一级标题
+</h2>
+
+<h3 style="font-family: STIXIntegralsD">
+    文章二级标题
+</h3>
+
+<p style="font-family: STIXIntegralsD">
+    像人的语言一样，网络上的网页里的 HTML 代码也不一定是标准的，好比有时候你发音不太标准，别人会去猜测你说的到底是什么一样，
+    有些时候前端程序猿不小心写错了 HTML，浏览器也会试图猜测他们原来想写的是什么，做对应的渲染，而猜是要有一个常识做依据的。
+    加上有些浏览器支持一些标签，有一些又不支持，以及其他混乱的情况，为了防止大家鸡同鸭讲，我们需要对 HTML 代码里能有什么标签，
+    标签怎么写，标签可以有什么属性这些东西有一定的共识，建立一个通行的标准，HTML5 就是其中一个比较新的标准。这个标准新加了很多
+    可以用的标签和属性，然后各大浏览器也吭哧吭哧按这个标准去实现了很多这些新加的标签和属性，本来前端程序员要写一堆代码去实现的
+    效果，现在浏览器都给你实现好了，只要写两三行，调用一下浏览器给你实现的部分就能搞定，简单愉快，所以很多人都在热情地推广
+    <br/>在这里换行<br/>
+    像人的语言一样，网络上的网页里的 HTML 代码也不一定是标准的，好比有时候你发音不太标准，别人会去猜测你说的到底是什么一样，
+    有些时候前端程序猿不小心写错了 HTML，浏览器也会试图猜测他们原来想写的是什么，做对应的渲染，而猜是要有一个常识做依据的。
+    加上有些浏览器支持一些标签，有一些又不支持，以及其他混乱的情况，为了防止大家鸡同鸭讲，我们需要对 HTML 代码里能有什么标签，
+    标签怎么写，标签可以有什么属性这些东西有一定的共识，建立一个通行的标准，HTML5 就是其中一个比较新的标准。这个标准新加了很多
+    可以用的标签和属性，然后各大浏览器也吭哧吭哧按这个标准去实现了很多这些新加的标签和属性，本来前端程序员要写一堆代码去实现的
+    效果，现在浏览器都给你实现好了，这里用加粗字体<b>只要写两三行</b>，调用一下浏览器给你实现的部分就能搞定，
+    <a href="first.html">简单愉快，所以很多人都在热情地推广</a>
+
+</p>
+<img src="image/a.jpg">
+
+
+<ul>
+    <li type="disc">导航链接一</li>
+    <li type="disc">导航链接二</li>
+    <li type="disc">导航链接三</li>
+    <li type="disc">导航链接四</li>
+
+</ul>
+
+<h2 style="font-family: STIXIntegralsD">
+    图片
+</h2>
+<br/>好看的图片<br/>
+<img src="image/a.jpg"><br/>
+<br/>好看的图片<br/>
+<img src="image/a.jpg"><br/>
+<br/>好看的图片<br/>
+<img src="image/a.jpg"><br/>
+<br/>好看的图片<br/>
+<img src="image/a.jpg"><br/>
+
+
+<h2 style="font-family: STIXIntegralsD">
+    最后一篇文章一级标题
+</h2>
+
+<h3 style="font-family: STIXIntegralsD">
+    文章二级标题
+</h3>
+<p>作者 时间</p>
+<p>
+<ol start="1">
+    <li >导航链接一</li>
+    <li >导航链接二</li>
+    <li >导航链接三</li>
+    <li >导航链接四</li>
+
+</ol>
+</p>
+
+<p>
+    下面是一个表格，给表格加了宽度一
+</p>
+
+<table border="1">
+    <tr>
+        <td align="left">表头</td>
+        <th>表头</th>
+        <th>表头</th>
+        <th><a href="first.html">操作</a></th>
+    </tr>
+    <tr>
+    <td>表内容单元格</td>
+        <td>表内容单元格</td>
+        <td>表内容单元格</td>
+        <td><a href="first.html">操作</a></td>
+    </tr>
+    <tr>
+        <td>表内容单元格</td>
+        <td>表内容单元格</td>
+        <td>表内容单元格</td>
+        <td><a href="first.html">操作</a></td>
+    </tr>
+    <tr>
+        <td>表内容单元格</td>
+        <td>表内容单元格</td>
+        <td>表内容单元格</td>
+        <td><a href="first.html">操作</a></td>
+    </tr>
+    <tr>
+        <td>表内容单元格</td>
+        <td>表内容单元格</td>
+        <td>表内容单元格</td>
+        <td><a href="first.html">操作</a></td>
+    </tr>
+
+    <tr>
+        <td>总计</td>
+        <td colspan="3">1000</td>
+    </tr>
+</table>
+<aside>
+    <h2 style="font-family: STIXIntegralsD">
+        这里以后是一个侧边栏
+    </h2>
+    <h2 style="font-family: STIXIntegralsD">
+        侧边栏注册窗口标题
+    </h2>
+
+    <form>
+        请输入邮箱地址：
+        <input type="text" name="mail" placeholder="这是一个文本输入框">
+    </form>
+
+    <p>邮箱地址请按要求格式输入</p>
+
+    <form>
+        请输入密码：
+        <input type="text" name="mima" placeholder="这是一个文本输入框">
+        请重复输入密码：
+        <input type="text" name="mima" placeholder="这是一个文本输入框">
+    </form>
+
+    <p>密码请设定为6-12位英文或数字</p>
+    <br/>
+    <form>性别：
+        <input type="radio" name="gender" checked>男
+        <input type="radio" name="gender">女
+        城市：
+     <select>
+         <option value="1">北京</option>
+         <option value="2">广州</option>
+         <option value="3">上海</option>
+
+
+
+     </select>
+        爱好：
+        <input type="checkbox" name="interest">运动
+        <input type="checkbox" name="interest">艺术
+        <input type="checkbox" name="interest">科学
+
+        个人描述：
+        <textarea rows="3">这是一个多行输入框</textarea>
+        <input type="submit" name="sub"/>
+
+
+
+
+    </form>
+
+
+
+</aside>
+
+</body>
+
+</html>
