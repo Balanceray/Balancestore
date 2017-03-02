@@ -1,0 +1,149 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: gray;
+}
+
+.passage {
+    background: white;
+    width: 95%;
+    padding: 20px;
+    margin: 0 auto;
+    text-indent: 2em;
+    box-shadow: 3px 3px 3px #242424;
+}
+
+#headtop {
+    background-color: black;
+    width: 100%;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+#finaldown {
+    background-color: black;
+    color: white;
+}
+
+#asi {
+    background-color: white;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.dian {
+    color: azure;
+    float: left;
+    margin: 20px;
+}
+
+a.chaolianjie {
+    color: white;
+    text-decoration: none;
+}
+
+a.chaolianjie:hover {
+    color: aquamarine;
+    text-decoration: underline;
+}
+
+ul.kaitou {
+    padding-left: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 20px;
+    margin-left: 850px;
+}
+
+.ti h3 {
+    color: gray;
+}
+
+.ti h4 {
+    color: gray;
+}
+
+.ti {
+    background: white;
+    width: 95%;
+    padding:0 20px;
+    margin: 0 auto;
+    box-shadow: 3px 3px 3px #242424;
+    font-family: STIXIntegralsD;
+}
+
+#biaoge {
+    background: white;
+    width: 95%;
+    padding:0 20px;
+    margin: 0 auto;
+}
+
+.wuxu {
+    margin-left: 30px;
+}
+
+.tupian img {
+    width: 100px;
+    height: 100px;
+}
+
+.tupian {
+    padding: 20px;
+    border: 1px solid gray;
+    width: 10%;
+    text-align: center;
+    text-indent: 0;
+}
+
+.olist {
+    margin-left: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-content: center;
+    font-style: italic;
+    text-indent: 0px;
+}
+
+#tab {
+    width: 95%;
+    margin: 0 auto;
+    border-collapse:collapse;
+}
+
+.td {
+    border: 1px solid gray;
+}
+
+.tb {
+    border: 1px solid gray;
+    background-color: gainsboro;
+    color: black;
+    font-weight: bold;
+}
+
+.tip {
+    color: gray;
+    font-weight: lighter;
+}
+
+.right {
+    text-align: right;
+}
+
+#submit {
+    background: orange;
+    height: 40px;
+    width: 100%;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#asidetab {
+    margin: 0 auto;
+    line-height: 2em;
+}
